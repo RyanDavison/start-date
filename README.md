@@ -24,6 +24,9 @@ date(3);
 //Three days in the future (eg. 04-05-2017)
 ```
 
+## Related
+[before-today](https://github.com/RyanDavison/before-today)
+
 ## License
 
 MIT
