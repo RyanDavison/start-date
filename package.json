@@ -1,0 +1,33 @@
+{
+  "name": "start-date",
+  "version": "1.0.0",
+  "description": "Returns a date prior to the current date, the current date or a date after the current date in DD-MM-YYYY format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/RyanDavison/start-date.git",
+    "type": "git"
+  },
+  "keywords": [
+    "date",
+    "today",
+    "tomorrow",
+    "yesterday",
+    "moment"
+  ],
+  "author": "Ryan Davison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanDavison/start-date/issues"
+  },
+  "homepage": "https://github.com/RyanDavison/start-date#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
